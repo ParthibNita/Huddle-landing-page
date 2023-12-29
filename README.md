@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile version](../Huddle%20Landing%20Page/screenshots/photo_2023-12-29_22-38-59.jpg)
-![desktop version](../Huddle%20Landing%20Page/screenshots/Web%20capture_29-12-2023_223554_127.0.0.1.jpeg)
+![mobile version](../Huddle%20Landing%20Page/screenshots/mobile.png)
+![desktop version](../Huddle%20Landing%20Page/screenshots/desktop.png)
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/responsive-landing-page-using-bootstrap-and-some-custom-css-88Ffj3tZcY)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-landing-page-using-bootstrap-and-some-custom-css-88Ffj3tZcY/)
 - Live Site URL: (https://meek-pudding-52118d.netlify.app/)
 
 ### Built with
