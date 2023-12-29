@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile version](../Huddle%20Landing%20Page/screenshots/mobile.png)
-![desktop version](../Huddle%20Landing%20Page/screenshots/desktop.png)
+![mobile version](../Huddle-landing-page/screenshots/mobile.png)
+![desktop version](../Huddle-landing-page/screenshots/desktop.png)
 
 ### Links
 
